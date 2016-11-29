@@ -7,3 +7,5 @@ bible reading
 shower
 pack lunch
 dress
+eat
+drive
