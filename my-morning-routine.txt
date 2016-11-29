@@ -4,3 +4,5 @@ feed dog
 coffee
 poop
 bible reading
+shower
+
